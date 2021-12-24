@@ -1,0 +1,12 @@
+//install @fullhuman/postcss-purgecss , postcss-preset-env  ////////TO REMOVE UNUSED CLASSES
+
+$items: (
+  "l": left,
+  "r": right,
+  "t": top,
+  "b": bottom,
+);
+$displays: flex, relative, absolute;
+$flex-values: flex-start, flex-end, center, space-between, space-around,
+  space-evenly;
+$texts: left, center, right;
